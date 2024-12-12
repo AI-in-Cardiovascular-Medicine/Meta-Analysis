@@ -47,3 +47,15 @@ We finally included 162’478 unique reports published 01/1990-09/2024 and havin
 
 # DataFrame
 The final [dataframe](mesh_df.csv) includes 162,478 unique reports of meta analysis listed in Medline in between 01.1990 to 09.2024.
+
+
+## Supplementary
+
+### Cumulative Histogram of Meta-analysis listed in Medline
+![cumulative_histogram](images/cumulative_histogram.jpg)
+
+### The most often used primary MeSH terms
+![most_word_cloud](images/most_word_cloud.jpg)
+
+### The least often used primary MeSH terms
+![least_word_cloud](images/least_word_cloud.jpg)
