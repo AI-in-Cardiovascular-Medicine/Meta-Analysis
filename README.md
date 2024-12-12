@@ -49,7 +49,13 @@ We finally included 162’478 unique reports published 01/1990-09/2024 and havin
 The final [dataframe](mesh_df.csv) includes 162,478 unique reports of meta analysis listed in Medline in between 01.1990 to 09.2024.
 
 
-## Supplementary
+## Plot
+
+### Frequency of the individual primary Medical Subject Headings terms assigned across the meta-analyses
+![frequency_plot](images/scatter_plot.jpg)
+
+### Coefficients of variation distribution for the primary MeSH headings across the corresponding subheadings
+![cumulative_histogram](images/bubble_plot.jpg)
 
 ### Cumulative Histogram of Meta-analysis listed in Medline
 ![cumulative_histogram](images/cumulative_histogram.jpg)
